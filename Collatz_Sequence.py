@@ -23,4 +23,4 @@ while(True):
         print(intNumber, end=',')
         continue;
 
-sys.exit()    
+sys.exit()

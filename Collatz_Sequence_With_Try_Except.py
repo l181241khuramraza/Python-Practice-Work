@@ -1,4 +1,4 @@
-#### Collatz Sequence wiht Input Validation####
+#### Collatz Sequence wiht Input Validation  ####
 
 import sys
 #Collatz function Definition
